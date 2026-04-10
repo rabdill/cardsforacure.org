@@ -1,0 +1,37 @@
+theme: jekyll-theme-minimal
+lang: en
+timezone: America/New_York
+title: Cards for a Cure 2026
+
+# subtitle
+tagline: Charity Online Poker Tournament
+
+# used by seo meta and the atom feed
+description: Fundraiser for lymphoma and leukemia research from Blood Cancer United Visionary of the Year candidate Nick Werner.
+
+# protocol & hostname for your site (it does not end with a '/')
+url: https://cardsforacure.org
+
+author:
+  name: Richard Abdill
+  url: https://github.com/rabdill
+github:
+  username: rabdill
+social:
+  # displayed as the default author of the posts and the copyright owner in the footer
+  name: Richard Abdill
+  email: rich@richabdill.com
+
+#theme_mode: dark
+
+# avatar on sidebar (supports local or CORS resources)
+avatar: /assets/img/corey_goldberg.jpg
+
+# global switch for TOC in posts (boolean)
+#toc: false
+
+# number of posts per page
+paginate: 15
+
+# base URL of your site
+baseurl: ""

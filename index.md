@@ -9,11 +9,11 @@ This is a fully virtual, beginner-friendly Texas Hold’em poker tournament. **N
 ## Tournament awards
 
 The winner of the tournament will receive this handmade First Place trophy, featuring poker chips suspended within the logo of Blood Cancer United.
-![First Place Trophy](img/first.jpeg)
+![First Place Trophy](img/first.jpeg){: .align-right}
 
 
 The **first player eliminated from the tournament** will receive this handmade Last Place trophy, featuring poker chips glued to the scrap wood left over from making the other trophy.
-![Last Place Trophy](img/last.jpeg)
+![Last Place Trophy](img/last.jpeg){: .align-right}
 
 ## Bounties
 
