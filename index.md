@@ -3,7 +3,9 @@
 * **[Donate here to receive a tournament entry](https://pages.lls.org/voy/rm/denver26/vpoker)**
 * **[Put a bounty on a player!](https://www.amazon.com/hz/wishlist/ls/1T3A6TVLAXBF5?ref_=wl_share)**
 
-This is a fully virtual, beginner-friendly Texas Hold’em poker tournament. **No software or download required**—just a browser and your competitive spirit! This is an informational page for the 2026 Cards for a Cure Poker Tournament detailing prizes and awards available to participants.
+Cards for a Cure is a **fully virtual, beginner-friendly Texas Hold’em charity poker tournament** to be held Sunday, April 26, 2026, at 6:30 pm EDT.
+
+**All proceeds go directly to Blood Cancer United**, a 501(c)(3) charitable organization founded in 1949 to *fund lifesaving research, provide critical support services, and improve access to care for people facing blood cancer*. Lymphoma survivor and BCU Visionary of the Year candidate Nick Werner is organizing this fundraiser as part of his campaign to raise **$91,525 for leukemia and lymphoma research**. You can read his story [on the BCU website](https://pages.lls.org/voy/rm/denver26/nwerner), and you will receive one entry to the tournament with a $100 donation to the Visionary of the Year campaign. To receive an entry, it's important you donate through the [tournament donation page](https://pages.lls.org/voy/rm/denver26/vpoker) using one of the established donation tiers.
 
 ## Tournament awards
 
@@ -28,3 +30,11 @@ We'll take care of everything from there—we'll be announcing wins and providin
 * A bounty is awarded for a player's **first tournament knockout**. If a player has a bounty on their head, and they run out of chips, the opponent who takes those final chips will also receive the bounty.
   * (Players have the option to "rebuy" by donating for an additional tournament entry. This does not affect gifts from the hand that eliminated them.)
 * If a player has a bounty on their head and is eliminated in a hand with a side pot, their bounty will be awarded to the opponent who wins the pot containing the player's final chips. If there are multiple side pots or a dispute about whom should receive the bounty chip, it will be awarded to **the opponent Nick likes the most**.
+
+### Contact
+
+* Donations are all handled directly by Blood Cancer United. If you have questions about your financial transaction, contact Blood Cancer United via email at SupportServices -at- bloodcancerunited.org or via phone at 1-888-557-7177.
+* For questions about gifts or to coordinate bounties, please contact Richard Abdill at rich@cardsforacure.org.
+* For questions about the fundraiser and the Visionary of the Year campaign, contact Nick Werner at nick@cardsforacure.org.
+
+Thank you very much for your support. Looking forward to pulling up a chair next to you on Sunday the 26th.

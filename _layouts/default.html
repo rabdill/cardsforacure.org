@@ -18,9 +18,37 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
+        <h2>April 26, 2026, 4:30 pm MDT</h2>
+        <ul>
+          <li><strong>6:30 pm Eastern Daylight Time</strong></li>
+          <li><strong>5:30 pm Central Daylight Time</strong></li>
+          <li><strong>4:30 pm Mountain Daylight Time</strong></li>
+          <li><strong>3:30 pm Pacific Daylight Time</strong></li>
+          <li><strong>3:30 pm Mountain Standard Time</strong></li>
+          <li><strong>6:30 pm Atlantic Standard Time</strong></li>
+          <li><strong>7:30 pm Atlantic Daylight Time</strong></li>
+          <li><strong>2:30 pm Alaska Daylight Time</strong></li>
+          <li><strong>12:30 pm Hawaii Standard Time</strong></li>
+        </ul>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        [Donate here!]({{ site.donate }}){: .btn}
+        <button href="{{ site.donate }}"
+          style="button {
+                   background-color: #f44336;
+                   color: white;
+                   text-align: center;
+                   font-weight: bold;
+                   font-size: 2em;
+          }">
+        Donate here!</button>
+
+        <button href="https://www.amazon.com/hz/wishlist/ls/1T3A6TVLAXBF5?ref_=wl_share"
+          style="button {
+                   background-color: blue;
+                   color: white;
+                   text-align: center;
+                   font-size: 2em;
+          }">
+        Take out a bounty</button>
 
       </header>
       <section>
