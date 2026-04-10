@@ -28,7 +28,7 @@ h2 {
 .btn-76 {
   -webkit-tap-highlight-color: transparent;
   -webkit-appearance: button;
-  background-color: #000;
+  background-color: #ff4d3d;
   background-image: none;
   color: #fff;
   cursor: pointer;
@@ -55,7 +55,7 @@ h2 {
   display: none;
 }
 .btn-76 {
-  --neon: #0ea5e9;
+  --neon: red;
   box-sizing: border-box;
   display: block;
   font-weight: 900;
@@ -139,7 +139,7 @@ h2 {
   -webkit-appearance: button;
   background-color: #4287f5;
   background-image: none;
-  color: #000;
+  color: white;
   cursor: pointer;
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
     Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
