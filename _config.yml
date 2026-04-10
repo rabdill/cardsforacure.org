@@ -12,6 +12,8 @@ description: Fundraiser for lymphoma and leukemia research from Blood Cancer Uni
 # protocol & hostname for your site (it does not end with a '/')
 url: https://cardsforacure.org
 
+logo: img/logo.png
+donate: https://pages.lls.org/voy/rm/denver26/vpoker
 author:
   name: Richard Abdill
   url: https://github.com/rabdill

@@ -1,8 +1,7 @@
-# Cards for a Cure 2026
 ![Cards for a Cure](img/logo.png)
 
-[Donate here to receive a tournament entry](https://pages.lls.org/voy/rm/denver26/vpoker)
-[Put a bounty on a player!](https://www.amazon.com/hz/wishlist/ls/1T3A6TVLAXBF5?ref_=wl_share)
+* **[Donate here to receive a tournament entry](https://pages.lls.org/voy/rm/denver26/vpoker)**
+* **[Put a bounty on a player!](https://www.amazon.com/hz/wishlist/ls/1T3A6TVLAXBF5?ref_=wl_share)**
 
 This is a fully virtual, beginner-friendly Texas Hold’em poker tournament. **No software or download required**—just a browser and your competitive spirit! This is an informational page for the 2026 Cards for a Cure Poker Tournament detailing prizes and awards available to participants.
 
