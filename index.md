@@ -1,5 +1,7 @@
 # Cards for a Cure 2026
 
+## Charity poker tournament in support of leukemia and lymphoma research
+
 * **[Donate here to receive a tournament entry](https://pages.lls.org/voy/rm/denver26/vpoker)**
 * **[Put a bounty on a player!](https://www.amazon.com/hz/wishlist/ls/1T3A6TVLAXBF5?ref_=wl_share)**
 
