@@ -30,9 +30,6 @@ social:
 # avatar on sidebar (supports local or CORS resources)
 avatar: /assets/img/corey_goldberg.jpg
 
-# global switch for TOC in posts (boolean)
-#toc: false
-
 # number of posts per page
 paginate: 15
 
