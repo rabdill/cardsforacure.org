@@ -4,6 +4,7 @@
 
 * **[Donate here to receive a tournament entry](https://pages.lls.org/voy/rm/denver26/vpoker)**
 * **[Put a bounty on a player!](https://www.amazon.com/hz/wishlist/ls/1T3A6TVLAXBF5?ref_=wl_share)**
+* **[Check the list of current bounties](https://cardsforacure.org/bounties)**
 
 Cards for a Cure is a **fully virtual, beginner-friendly Texas Hold’em charity poker tournament** to be held Sunday, April 26, 2026, at 6:30 pm EDT.
 

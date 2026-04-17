@@ -14,19 +14,19 @@ If you'd like to put a bounty on yourself or another player, please contact Rich
 ## Nick's Parents
 
 ### Julie (Nick's Mom)
-![Julie's Bounty](img/electric-toothbrush.jpeg){: .bounty-img}
+![Julie's Bounty](img/electric-toothbrush.jpeg){: .bounty-img-left}
 *   **The Bounty:** A nice new electric toothbrush.
 *   **The Why:** As a dental hygienist of great renown, Julie's bounty is actually pretty nice!
 
 ### Steve (Nick's Dad)
-![Steve's Bounty](img/big-mouth-bass.jpeg){: .bounty-img}
+![Steve's Bounty](img/big-mouth-bass.png){: .bounty-img}
 *   **The Bounty:** A Big Mouth Billy Bass.
 *   **The Why:** Steve's already graciously donated our grand prize, a custom fishing rod. Knock Steve out along the way to victory and complete the set.
 
 ## Nick's Pals
 
 ### Rich Abdill
-![Rich's Bounty](img/jug-of-cola-syrup.jpeg){: .bounty-img}
+![Rich's Bounty](img/jug-of-cola-syrup.jpeg){: .bounty-img-left}
 *   **The Bounty:** A jug of BOOST! Cola syrup.
 *   **The Why:** Non-New Jerseyites won't know the deep lore and delicious taste of BOOST! Cola. Knock Rich out of the tournament, and you will be let in to the brotherhood.
 
