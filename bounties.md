@@ -7,35 +7,35 @@ If you'd like to put a bounty on yourself or another player, please contact Rich
 ## Nick's Bounty
 
 ### Nick
-![Nick's Bounty](img/autographed-baseball.png){: .bounty-img}
+<img src="/img/autographed-baseball.png" alt="Nick's Bounty" class="bounty-img">
 *   **The Bounty:** An autographed baseball from an Oriole that wasn't very good.
 *   **The Why:** Cancer couldn't knock out Nick, but you can! (We went back and forth on this joke for weeks, but we're leaving it in.) As a true Oriole fan, Nick knows that if you have star players' memorabilia, you're a fraud.
 
 ## Nick's Parents
 
 ### Julie (Nick's Mom)
-![Julie's Bounty](img/electric-toothbrush.png){: .bounty-img}
+<img src="/img/electric-toothbrush.png" alt="Julie's Bounty" class="bounty-img">
 *   **The Bounty:** A nice new electric toothbrush.
 *   **The Why:** As a dental hygienist of great renown, Julie's bounty is actually pretty nice!
 
 ### Steve (Nick's Dad)
-![Steve's Bounty](img/big-mouth-bass.png){: .bounty-img}
+<img src="/img/big-mouth-bass.png" alt="Steve's Bounty" class="bounty-img">
 *   **The Bounty:** A Big Mouth Billy Bass.
 *   **The Why:** Steve's already graciously donated our grand prize, a custom fishing rod. Knock Steve out along the way to victory and complete the set.
 
 ## Nick's Pals
 
 ### Rich Abdill
-![Rich's Bounty](img/jug-of-cola-syrup.png){: .bounty-img}
+<img src="/img/jug-of-cola-syrup.png" alt="Rich's Bounty" class="bounty-img">
 *   **The Bounty:** A jug of BOOST! Cola syrup.
 *   **The Why:** Non-New Jerseyites won't know the deep lore and delicious taste of BOOST! Cola. Knock Rich out of the tournament, and you will be let in to the brotherhood.
 
 ### Rob Gindes
-![Rob's Bounty](img/pokemon-card.png){: .bounty-img}
+<img src="/img/pokemon-card.png" alt="Rob's Bounty" class="bounty-img">
 *   **The Bounty:** A Pokemon card from Rob's personal collection.
 *   **The Why:** Collecting Pokemon cards "for their kids" is one of many hobbies Rob and Nick share. Knocking Rob out will earn you a card from Rob's personal collection, depicting Rob's favorite character Gengar, a fat purple ghost.
 
 ### John Banusiewicz
-![John's Bounty](img/taco-bell.png){: .bounty-img}
+<img src="/img/taco-bell.png" alt="John's Bounty" class="bounty-img">
 *   **The Bounty:** Taco Bell gift card.
 *   **The Why:** What more bounty could there possibly be, than the bounty of a delicious feast, consumed according to the Live Más lifestyle?
