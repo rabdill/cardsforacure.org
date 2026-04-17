@@ -19,7 +19,7 @@ If you'd like to put a bounty on yourself or another player, please contact Rich
 *   **The Why:** As a dental hygienist of great renown, Julie's bounty is actually pretty nice!
 
 ### Steve (Nick's Dad)
-![Steve's Bounty](img/big-mouth-bass.png){: .bounty-img}
+![Steve's Bounty](img/big-mouth-bass.jpeg){: .bounty-img}
 *   **The Bounty:** A Big Mouth Billy Bass.
 *   **The Why:** Steve's already graciously donated our grand prize, a custom fishing rod. Knock Steve out along the way to victory and complete the set.
 
@@ -36,6 +36,6 @@ If you'd like to put a bounty on yourself or another player, please contact Rich
 *   **The Why:** Collecting Pokemon cards "for their kids" is one of many hobbies Rob and Nick share. Knocking Rob out will earn you a card from Rob's personal collection, depicting Rob's favorite character Gengar, a fat purple ghost.
 
 ### John Banusiewicz
-![John's Bounty](img/taco-bell.jpeg){: .bounty-img}
+![John's Bounty](img/taco-bell.jpeg){: .bounty-img-left}
 *   **The Bounty:** Taco Bell gift card.
 *   **The Why:** What more bounty could there possibly be, than the bounty of a delicious feast, consumed according to the Live Más lifestyle?
