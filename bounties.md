@@ -24,7 +24,7 @@ If you'd like to put a bounty on yourself or another player, please contact Rich
 *   **The Why:** Steve's already graciously donated our grand prize, a custom fishing rod. Knock Steve out along the way to victory and complete the set.
 
 ### Cohen (Nick's Son)
-![Cohen's Bounty](img/mac-and-cheese.jpeg){ .bounty-img-left}
+![Cohen's Bounty](img/mac-and-cheese.jpeg){: .bounty-img-left}
 * **The Bounty:** A twelve-pack of Annie's Mac and Cheese.
 * **The Why:** A delicious Mac and Cheese bundle from Colorado's greatest Mac and Cheese lover.
 
