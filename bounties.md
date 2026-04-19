@@ -11,7 +11,7 @@ If you'd like to put a bounty on yourself or another player, please contact Rich
 *   **The Bounty:** An autographed baseball from an Oriole that wasn't very good.
 *   **The Why:** Cancer couldn't knock out Nick, but you can! (We went back and forth on this joke for weeks, but we're leaving it in.) As a true Oriole fan, Nick knows that if you have star players' memorabilia, you're a fraud.
 
-## Nick's Parents
+## Nick's Family
 
 ### Julie (Nick's Mom)
 ![Julie's Bounty](img/electric-toothbrush.jpeg){: .bounty-img-left}
@@ -23,19 +23,24 @@ If you'd like to put a bounty on yourself or another player, please contact Rich
 *   **The Bounty:** A Big Mouth Billy Bass.
 *   **The Why:** Steve's already graciously donated our grand prize, a custom fishing rod. Knock Steve out along the way to victory and complete the set.
 
+### Cohen (Nick's Son)
+![Cohen's Bounty](img/mac-and-cheese.jpeg){ .bounty-img-left}
+* **The Bounty:** A twelve-pack of Annie's Mac and Cheese.
+* **The Why:** A delicious Mac and Cheese bundle from Colorado's greatest Mac and Cheese lover.
+
 ## Nick's Pals
 
 ### Rich Abdill
-![Rich's Bounty](img/jug-of-cola-syrup.jpeg){: .bounty-img-left}
+![Rich's Bounty](img/jug-of-cola-syrup.jpeg){: .bounty-img}
 *   **The Bounty:** A jug of BOOST! Cola syrup.
 *   **The Why:** Non-New Jerseyites won't know the deep lore and delicious taste of BOOST! Cola. Knock Rich out of the tournament, and you will be let in to the brotherhood.
 
 ### Rob Gindes
-![Rob's Bounty](img/pokemon-card.jpeg){: .bounty-img}
+![Rob's Bounty](img/pokemon-card.jpeg){: .bounty-img-left}
 *   **The Bounty:** A Pokemon card from Rob's personal collection.
 *   **The Why:** Collecting Pokemon cards "for their kids" is one of many hobbies Rob and Nick share. Knocking Rob out will earn you a card from Rob's personal collection, depicting Rob's favorite character Gengar, a fat purple ghost.
 
 ### John Banusiewicz
-![John's Bounty](img/taco-bell.jpeg){: .bounty-img-left}
+![John's Bounty](img/taco-bell.jpeg){: .bounty-img}
 *   **The Bounty:** Taco Bell gift card.
 *   **The Why:** What more bounty could there possibly be, than the bounty of a delicious feast, consumed according to the Live Más lifestyle?
