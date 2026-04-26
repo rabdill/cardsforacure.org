@@ -48,3 +48,13 @@ If you'd like to put a bounty on yourself or another player, please contact Rich
 ![John's Bounty](img/taco-bell.jpeg){: .bounty-img}
 *   **The Bounty:** Taco Bell gift card.
 *   **The Why:** What more bounty could there possibly be, than the bounty of a delicious feast, consumed according to the Live Más lifestyle?
+
+### Greg Glod
+![Greg's Bounty](img/scrub-card.jpeg){: .bounty-img-left}
+*   **The Bounty:** An autographed football card by a former Penn State player (who was horrible).
+*   **The Why:** You probably get the pattern by now.
+
+### Eric Larson
+![Larson's Bounty](img/mug.jpeg){: .bounty-img}
+*  **The Bounty:** A mug that honors Eric's service to this country.
+*  **The Why:** Because we all respect him.
