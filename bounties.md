@@ -7,9 +7,13 @@ If you'd like to put a bounty on yourself or another player, please contact Rich
 ## Nick's Bounty
 
 ### Nick
-![Nick's Bounty](img/autographed-baseball.jpeg){: .bounty-img}
+![Nick's Bounty](img/autographed-baseball.jpeg){: .bounty-img-left}
 *   **The Bounty:** An autographed baseball from an Oriole that wasn't very good.
 *   **The Why:** Cancer couldn't knock out Nick, but you can! (We went back and forth on this joke for weeks, but we're leaving it in.) As a true Oriole fan, Nick knows that if you have star players' memorabilia, you're a fraud.
+
+![Nick's Bounty 2](img/trimmer.jpeg){: .bounty-img}
+*   **The Bounty:** A nose hair trimmer.
+*   **The Why:** If you know Nick, you know why. Apparently this is a nice one, according to Rich.
 
 ## Nick's Family
 
