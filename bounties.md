@@ -13,7 +13,7 @@ If you'd like to put a bounty on yourself or another player, please contact Rich
 
 ![Nick's Bounty 2](img/trimmer.jpeg){: .bounty-img}
 *   **The Bounty:** A nose hair trimmer.
-*   **The Why:** If you know Nick, you know why. Apparently this is a nice one, according to Rich.
+*   **The Why:** Now that Nick's hair is back, this is a bounty he really appreciates. Apparently this is a nice one, according to Rich.
 
 ## Nick's Family
 
